@@ -21,7 +21,7 @@
        * @param - two ints
        */
        
-       public void sumThem(int numone, int numTwo)
+       public static void sumThem(int numone, int numTwo)
        {
            // find the sum
        }
