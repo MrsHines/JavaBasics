@@ -19,7 +19,7 @@
          *
          */
          
-         public void perimeter(int wide, int tall)
+         public stitic void perimeter(int wide, int tall)
          {
             //Calculate and print the perimeter of the rectangle
          }
