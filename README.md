@@ -35,19 +35,30 @@ Use the file DoTheMath.java.
 
 In the main method, use Scanner to ask the user for two integers.  Save the values to two int variables.
 
-Create methods to add, subtract, multiple, and divide these two numbers.
+Add, subtract, multiple, and divide these two numbers.  Create one expression that uses each operator (including mod) at least once.
 
-Print the information to the screen from within the individual methods. 
+Print the expressions and the results.
+
 
 
 Assignment #3: 
 
 Use the file Rectangle.java.  
 
-In the main method, use Scanner to ask the user for two integers.  Save these values to two variables.
+In the main method, use Scanner to ask the user for two values.  Save these values to two variables.  What type of variable is the best to use here?
 
-Create methods to calculate the area and perimater of the rectangle.
+Calculate the area and perimater of the rectangle.
 
-Print the information to the screen from within the individual methods.
+Print the information to the screen as part of a sentence.  Example:  "The side lengths were ___ and ___ .  The area is ___ .  The perimeter is ___ ." 
+
+Assignment #4:
+
+Use the file Temperature.java.
+
+In the main method, use Scanner to ask the user for two values - one is a temperature in Celsius and the other is a temperature in Fahrenheit.  
+
+For the Celsius temperature, convert it to Fahrenheit and print both the original value and the result as part of a sentence.
+
+For the Fahrenheit temperature, convert it to Celsius and print both the original value and the result as part of a sentence.
 
 
