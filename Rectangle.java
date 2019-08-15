@@ -12,19 +12,8 @@
     {
         // declare variables for the length and width of the rectangle
         // create a Scanner and ask the user for the values
+     
+        // CAlculate and print the perimeter and area of the rectangle. 
     }
-  
-        /**
-         * Determine the perimeter of the rectangle
-         * @param - 2 ints
-         *
-         */
-    
-    public static void perimeter(int wide, int tall)
-    {
-        //Calculate and print the perimeter of the rectangle
-    }
-         
-         //Create a method for finding the area of the rectangle
       
  }
