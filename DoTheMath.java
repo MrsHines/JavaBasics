@@ -12,21 +12,10 @@
           //define two variables
           //create a Scanner
           //take in the input for two variables
-          //call the methods
+          //print the results of the four basic mathematical operations
+          //print the result of one mathematical expression that uses all four operations at least once. 
       }
-      
-      /**
-       * Add the variables and print the sum
-       *
-       * @param - two ints
-       */
-       
-       public static void sumThem(int numone, int numTwo)
-       {
-           // find the sum
-       }
-       
-       // Add the methods and documentation for subtracting, multiplying, and dividing
+
        
  }
        
