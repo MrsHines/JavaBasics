@@ -1,64 +1,75 @@
 # JavaBasics
-The Java files accompanying the JavaBasics assignments.  
-
+The assignments that comprise the labs for Unit 1:
 
 Assignment #1:
 
-Use the file Variables.java.
+Use the file Sum.java.  
 
-Define 2 variables of each of the following data types.
-Use Scanner to ask the user for the values for the variables.
+Given two numbers, calculate and print the sum.  
 
-* byte
-* short
-* int
-* float
-* double
-* Strings
-
-For these two data types, assign them a value without asking the user.
-* char
-* boolean
-
-
-Create a new byte variable that holds the sum of the two bytes previously created.
-(Use the variable names to do the addition.  - You may need to typecast!) 
-
-Do the same with the short, int, float, double, and char. 
-
-Print the value of one variable from each type to the screen continuing the format provided in the file. 
-
+Your output should look like the following example when given the numbers -3 and 6:  -3 + 6 = 3 
 
 Assignment #2: 
 
-Use the file DoTheMath.java.
+Use the file Rectangle.java.
 
-In the main method, use Scanner to ask the user for two integers.  Save the values to two int variables.
+Given two numbers, calculate and print the area and perimeter of the rectangle. 
 
-Add, subtract, multiple, and divide these two numbers.  Create one expression that uses each operator (including mod) at least once.
+Your output should look like the following example when given the numbers 4 and 5.
 
-Print the expressions and the results.
-
-
+The perimeter is 26.
+The area is 20.
 
 Assignment #3: 
 
-Use the file Rectangle.java.  
+Use the file Average.java.
 
-In the main method, use Scanner to ask the user for two values.  Save these values to two variables.  What type of variable is the best to use here?
+Given two numbers, calculate and print the average.
 
-Calculate the area and perimater of the rectangle.
+Your output should look like the following example when given the numbers 5 and 5:
 
-Print the information to the screen as part of a sentence.  Example:  "The side lengths were ___ and ___ .  The area is ___ .  The perimeter is ___ ." 
+5.0 + 5.0 has an average of 5.00.
 
-Assignment #4:
+Assignment #4: 
+
+Use the file Cube.java.  
+
+Given one number, calculate and print the surface area of a cube.  The formula for service area is sa = 6s^2.  
+
+Your output should look like the following example when given the number 4:
+
+The surface area is 96.
+
+Assignment #5:
+
+Use the file Circle.java.
+
+Given one number for the radius, calculate and print the area of a circle. You should use the constant Math.PI from the Java Math class. Math is part of the lang library so you will not have to import it.
+
+Your output should look like the following example when given the number 7.5.
+
+The area of the circle is 176.7146.
+
+Assignment #6: 
+
+Use the file Line.java.
+
+Calculate and print the slope of a line when given two points.  
+
+Your output should look like the following example when given the numbers 1, 9, 14, 2.  
+
+The slope of the line from (1, 9) to (14, 2) is -0.54.  
+
+Assignment #7: 
 
 Use the file Temperature.java.
 
-In the main method, use Scanner to ask the user for two values - one is a temperature in Celsius and the other is a temperature in Fahrenheit.  
+Given a temperature in Celsius, convert the temperature to Fahrenheit by subtracting 32 and multiplying by (5/9). Print the result.
 
-For the Celsius temperature, convert it to Fahrenheit and print both the original value and the result as part of a sentence.
+Your output should look like the following when given the temperature 98.6.
 
-For the Fahrenheit temperature, convert it to Celsius and print both the original value and the result as part of a sentence.
+98.60 degrees Fahrenheit is 37.00 degrees Celsius.
+
+
 
 
